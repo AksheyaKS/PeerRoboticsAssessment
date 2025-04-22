@@ -1,0 +1,15 @@
+ultralytics==8.0.20
+opencv-python
+matplotlib
+numpy
+pandas
+scikit-learn
+Pillow
+tensorflow==2.11.0
+onnx
+onnxruntime
+tqdm
+ipython
+jupyter
+scikit-image
+segment-anything
